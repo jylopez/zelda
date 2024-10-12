@@ -1,0 +1,20 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+    },
+    "last.imagePath": "/Users/jershonlopez/Documents/ProjectFiles/fun/zelda-tiles/Modern tiles_Free/Interiors_free/32x32",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "zelda-map.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
